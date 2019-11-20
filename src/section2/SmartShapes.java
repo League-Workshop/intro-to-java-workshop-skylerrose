@@ -6,16 +6,16 @@ public class SmartShapes {
 	
     public static void main(String[] args) throws Exception {
         // 1. Make a new Robot
-
-
-        // 3. Put the robot's pen down
-
+    	Robot donnie = new();
+    
+    	// 3. Put the robot's pen down
+donnie.penDown();
 
         // 6. Make the robot move as fast as possible
-
+donnie.setSpeed(100);
 
         // 5. Use a for loop to repeat everything below 4 times. 
-
+int(for )
 
         //         2. Move your robot 200 pixels
 
